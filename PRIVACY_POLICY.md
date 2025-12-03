@@ -49,6 +49,12 @@ Utilizamos la información recopilada únicamente para:
 - Solo la aplicación MoviTrax puede acceder a estos datos
 - No compartimos datos con aplicaciones de terceros
 
+**Backup y Sincronización:**
+- Los datos sensibles (nombre, Scoober ID, historial de turnos) NO se incluyen en los backups automáticos de Android
+- Los datos NO se sincronizan con servicios de backup en la nube
+- Los datos NO se transfieren automáticamente a otros dispositivos
+- Si necesitas hacer una copia de seguridad, puedes usar la función de exportación CSV manual
+
 ## Compartir Información
 
 **No compartimos tu información con terceros:**
@@ -109,7 +115,7 @@ Si tienes preguntas sobre esta Política de Privacidad, puedes contactarnos:
 
 **Desarrollador:** Wemerson C.G  
 **Aplicación:** MoviTrax  
-**Email:** wemerson.adm2@gmaIL.com
+**Email:** wemerson.adm2@gmail.com
 
 ## Consentimiento
 
@@ -119,5 +125,7 @@ Al usar MoviTrax, consientes esta Política de Privacidad y aceptas sus término
 
 **Powered by Wemerson C.G**  
 © 2025 MoviTrax. Todos los derechos reservados.
+
+
 
 
