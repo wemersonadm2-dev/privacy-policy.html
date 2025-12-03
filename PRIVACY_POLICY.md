@@ -109,7 +109,7 @@ Si tienes preguntas sobre esta Política de Privacidad, puedes contactarnos:
 
 **Desarrollador:** Wemerson C.G  
 **Aplicación:** MoviTrax  
-**Email:** [Tu email de contacto]
+**Email:** wemerson.adm2@gmaIL.com
 
 ## Consentimiento
 
@@ -119,4 +119,5 @@ Al usar MoviTrax, consientes esta Política de Privacidad y aceptas sus término
 
 **Powered by Wemerson C.G**  
 © 2025 MoviTrax. Todos los derechos reservados.
+
 
