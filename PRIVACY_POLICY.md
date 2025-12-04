@@ -4,7 +4,7 @@
 
 ## Introducción
 
-MoviTrax ("nosotros", "nuestra aplicación") se compromete a proteger tu privacidad. Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos tu información cuando usas nuestra aplicación móvil MoviTrax.
+MoviTrax se compromete a proteger tu privacidad. Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos tu información cuando usas nuestra aplicación móvil MoviTrax.
 
 ## Información que Recopilamos
 
@@ -125,6 +125,7 @@ Al usar MoviTrax, consientes esta Política de Privacidad y aceptas sus término
 
 **Powered by Wemerson C.G**  
 © 2025 MoviTrax. Todos los derechos reservados.
+
 
 
 
